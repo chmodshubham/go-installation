@@ -11,7 +11,7 @@ You can check out the [official Golang docs](https://go.dev/doc/install) for dow
 - If you already have any previous Go Installation in your system, then remove it.
 
 ```bash
-sudo rm -rf /usr/local/go && tar -C /usr/local -xzf go1.19.linux-amd64.tar.gz
+sudo rm -rf /usr/local/go
 ```
 
 - Make sure go folder has been removed from `/usr/local/` location. 
